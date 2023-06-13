@@ -1,3 +1,3 @@
-# repositorio para practicar git pull
+# repositorio para practicar git pull (XD)
 
 practicar gitpull
